@@ -1,0 +1,6 @@
+{
+  "name": "Ad Feedback Guide AI",
+  "description": "광고주 피드백을 실무 관점에서 분석하여 유형별 가이드와 시뮬레이션을 제공하는 광고업 특화 AI 피드백 가이드 프로토타입",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
